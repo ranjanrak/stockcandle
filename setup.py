@@ -5,7 +5,7 @@ README = open("README.md").read()
 
 setup(
     name="stockcandle",  
-    version="0.1",
+    version="0.2",
     author="Rakesh R",
     author_email="rrrakesh265@gmail.com",
     description="Python library to fetch intraday data for any given EQ symbol",
