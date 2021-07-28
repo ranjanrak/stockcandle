@@ -52,3 +52,5 @@ print(candle_data)
 '2021-07-28 12:51:00': {'open': 285.7, 'high': 285.75, 'low': 285.5, 'close': 285.55},
 ....
 ```
+
+<b>Disclaimer</b> : This was done as a hobby project and shouldn't be use for commercial purpose. Go through NSE usage terms [here](https://www.nseindia.com/nse-terms-of-use). USE AT YOUR OWN RISK :-)   
